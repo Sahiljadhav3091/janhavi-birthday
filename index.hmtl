@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Happy Birthday Janhavi 🎉</title>
+  <style>
+    body {
+      font-family: 'Arial';
+      text-align: center;
+      padding: 100px;
+      background-color: #ffe6f0;
+    }
+    h1 {
+      color: #d63384;
+    }
+    p {
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday Janhavi! 🎉</h1>
+  <p>Sahil made this just for you!</p>
+  <p>Stay amazing, stay smiling!</p>
+</body>
+</html>
